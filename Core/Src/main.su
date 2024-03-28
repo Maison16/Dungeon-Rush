@@ -1,0 +1,17 @@
+../Core/Src/main.c:157:6:lcd_wlasny_znak	24	static
+../Core/Src/main.c:167:7:napiecie_drabiny	16	static
+../Core/Src/main.c:176:5:uzycieSkilla	24	static
+../Core/Src/main.c:222:5:__io_putchar	24	static
+../Core/Src/main.c:232:5:_write	32	static
+../Core/Src/main.c:239:6:wyswietlInterfejs	88	static
+../Core/Src/main.c:270:6:HAL_GPIO_EXTI_Callback	32	static
+../Core/Src/main.c:313:6:init_RTC	8	static
+../Core/Src/main.c:324:5:walka	32	static
+../Core/Src/main.c:445:6:sciana	8	static
+../Core/Src/main.c:472:5:main	56	static
+../Core/Src/main.c:1352:6:SystemClock_Config	96	static
+../Core/Src/main.c:1403:13:MX_ADC1_Init	48	static
+../Core/Src/main.c:1470:13:MX_RTC_Init	8	static
+../Core/Src/main.c:1506:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:1541:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:1605:6:Error_Handler	4	static,ignoring_inline_asm

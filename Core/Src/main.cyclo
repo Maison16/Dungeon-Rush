@@ -1,0 +1,17 @@
+../Core/Src/main.c:157:6:lcd_wlasny_znak	2
+../Core/Src/main.c:167:7:napiecie_drabiny	1
+../Core/Src/main.c:176:5:uzycieSkilla	12
+../Core/Src/main.c:222:5:__io_putchar	2
+../Core/Src/main.c:232:5:_write	2
+../Core/Src/main.c:239:6:wyswietlInterfejs	1
+../Core/Src/main.c:270:6:HAL_GPIO_EXTI_Callback	3
+../Core/Src/main.c:313:6:init_RTC	1
+../Core/Src/main.c:324:5:walka	17
+../Core/Src/main.c:445:6:sciana	1
+../Core/Src/main.c:472:5:main	97
+../Core/Src/main.c:1352:6:SystemClock_Config	4
+../Core/Src/main.c:1403:13:MX_ADC1_Init	4
+../Core/Src/main.c:1470:13:MX_RTC_Init	2
+../Core/Src/main.c:1506:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:1541:13:MX_GPIO_Init	1
+../Core/Src/main.c:1605:6:Error_Handler	1
